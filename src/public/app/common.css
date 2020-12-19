@@ -1,0 +1,7 @@
+#footerbar{
+    position: sticky;
+    bottom: 0px;
+    background-color: var(--light);
+    padding-top: 0.5rem;
+     padding-bottom: 00.5rem;
+}
